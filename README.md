@@ -51,6 +51,7 @@ Di project ini saya menggunakan bahasa pemrograman python dan deploy model ke hu
 
 ## Reference
 link dataset: https://www.basketball-reference.com/
+
 link hugging face: https://huggingface.co/spaces/Raifky/inference_nba
 ---
 
