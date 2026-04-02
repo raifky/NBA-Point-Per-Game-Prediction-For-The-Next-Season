@@ -1,0 +1,18 @@
+{
+    "numerical_features": [
+        "Age",
+        "MP",
+        "FGA",
+        "3PA",
+        "FTA",
+        "AST",
+        "TRB",
+        "TOV"
+    ],
+    "categorical_features": [
+        "Pos"
+    ],
+    "target": "PTS",
+    "model": "Ridge Regression",
+    "best_alpha": 1
+}

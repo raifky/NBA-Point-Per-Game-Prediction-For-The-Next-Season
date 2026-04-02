@@ -1,0 +1,2 @@
+link hugging face: https://huggingface.co/spaces/Raifky/inference_nba
+link dataset: https://www.basketball-reference.com/leagues/NBA_2025_per_game.html
