@@ -50,8 +50,7 @@ Di project ini saya menggunakan bahasa pemrograman python dan deploy model ke hu
 - streamlit: untuk deploy model
 
 ## Reference
+link Hugging Face: https://huggingface.co/spaces/Raifky/inference_nba
 link dataset: https://www.basketball-reference.com
-
-link dataset: https://huggingface.co/spaces/Raifky/inference_nba
 ---
 
